@@ -1,0 +1,4 @@
+
+[submodule "Django/Recipes"]
+	path = Django/Recipes
+	url = https://github.com/Uglypr1nces/Recipes.git
